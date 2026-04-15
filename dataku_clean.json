@@ -1,0 +1,1133 @@
+[
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$L2Y51HlLgM3CLCk1ssiSvG$4SFpaTxRWasWeJrQcDllpCrdQ8dFmdyZSXgmrK/u2vw=",
+    "last_login": "2025-07-19T13:29:19.437Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-05-21T14:56:10.892Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$bkvtOIf5f7ZJ7NfZnY1BFW$PoI2Uoip3DRVZ8fFiOb1t971VooKc9LmK0ubEXrpwXo=",
+    "last_login": "2025-07-19T13:19:15.499Z",
+    "is_superuser": false,
+    "username": "haris",
+    "first_name": "",
+    "last_name": "",
+    "email": "hari@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-24T07:34:35.397Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$Kl7cGZxBDKq6Kyvi004SBk$rj0qRXe3Mx3RA/7Z0G/w8BGNYYuoIZ9AHtfrd3IvByU=",
+    "last_login": "2025-05-25T05:57:04.535Z",
+    "is_superuser": false,
+    "username": "dafa",
+    "first_name": "",
+    "last_name": "",
+    "email": "dafa@gmail.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-24T09:23:32.627Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$2qVtSZOsczYjvvTXN6rHG2$ruPi2meZ9qbBbC8sN9O4EijAmv8Cw/847Tk9jHzZWaI=",
+    "last_login": "2025-06-29T13:28:29.068Z",
+    "is_superuser": false,
+    "username": "alwi",
+    "first_name": "",
+    "last_name": "",
+    "email": "alwi@gh.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-30T05:47:38.178Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$I8dSbdPf1WaJHz1aZqT89s$osQKaa/niKR6IFQseQWfMoVekSsru276mEuZx22KkWE=",
+    "last_login": "2026-04-15T09:19:53.497Z",
+    "is_superuser": true,
+    "username": "rafaharis",
+    "first_name": "",
+    "last_name": "",
+    "email": "rafaharis@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2026-04-15T09:19:32.613Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0fbc5hz2wws7lnvw12y19kpjjyhiodzb",
+  "fields": {
+    "session_data": ".eJxVjE0OwiAYRO_C2hDUUsCle89Avj-kaiAp7cp4d0vShe4m897MW0VYlxzXJnOcWF2UV4ffDoGeUjrgB5R71VTLMk-ou6J32vStsryuu_t3kKHlbZ3wbIOgC9YDwUBMXjwmYxKyPTKxYZJueHZOtsQjinPpZFMYzOjV5wsu-jl-:1uJn2m:65e5VQ3K4nM-lMLfjGbFFmHV_GaND14hwo4Wj_h2Hak",
+    "expire_date": "2025-06-10T05:40:08.539Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1luaioj3mjsist8egqh6nz7tzcf0um15",
+  "fields": {
+    "session_data": ".eJxVjE0OwiAYRO_C2hDUUsCle89Avj-kaiAp7cp4d0vShe4m897MW0VYlxzXJnOcWF2UV4ffDoGeUjrgB5R71VTLMk-ou6J32vStsryuu_t3kKHlbZ3wbIOgC9YDwUBMXjwmYxKyPTKxYZJueHZOtsQjinPpZFMYzOjV5wsu-jl-:1uLBoR:NCgUovXpN9HcNK0rS_YMTRyfjAVd3slTm1OSd7gWpzs",
+    "expire_date": "2025-06-14T02:19:07.862Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "1v8o6jiq1aywlv1nsmv8xcsh9g48blbh",
+  "fields": {
+    "session_data": ".eJxVjE0OwiAYRO_C2hDUUsCle89Avj-kaiAp7cp4d0vShe4m897MW0VYlxzXJnOcWF2UV4ffDoGeUjrgB5R71VTLMk-ou6J32vStsryuu_t3kKHlbZ3wbIOgC9YDwUBMXjwmYxKyPTKxYZJueHZOtsQjinPpZFMYzOjV5wsu-jl-:1uVslt:L0ELYL1BaKq0I9Sj-hJg_k--WoaeIxlSjyu-g6B-tZw",
+    "expire_date": "2025-07-13T14:12:41.387Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "7iuzf1dh1pt8z6rgh4srlazk2hpeex9w",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAqU5i6dN8zkBkGpGpoUtqV8e7apAvd_vfef6lA21rC1tISJlEX1anT78YUH6nuQO5Ub7OOc12XifWu6IM2Pc6SntfD_Tso1Mq3dox9NCSDEQYk6rMXGix6AIypA0GDNvmYPRtyaMFxTmSJY85wJlDvD_jdOMU:1uW0hi:sa1tGnBZxIggejShMGPvs7PATwce2Y4d3gGKv20fdyk",
+    "expire_date": "2025-07-13T22:40:54.485Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "d28y60w3nyjiu9s68071quqjpm77qnt5",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAqU5i6dN8zkBkGpGpoUtqV8e7apAvd_vfef6lA21rC1tISJlEX1anT78YUH6nuQO5Ub7OOc12XifWu6IM2Pc6SntfD_Tso1Mq3dox9NCSDEQYk6rMXGix6AIypA0GDNvmYPRtyaMFxTmSJY85wJlDvD_jdOMU:1uW0ju:2ZsJ5CMgsc57LLxReFBpfpEAX9GjR8WpWd-PvqcItwA",
+    "expire_date": "2025-07-13T22:43:10.400Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "dzcxuy61wu4ibb2m2hg29mou8lca8f5f",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-kjUlfc5geddrHECOFCcV4u4QKQW0b2beS8S0rTVunZc4ZXERIE6_GyZ6cNtBvqd2myXNbV0mlLsiD9rlOGd-Xg_376CmXr81OoM2hAwlaARz5qxxYAblnE2uKA8-sC1aEZMuVgUCl4nQJ1t4MCDeH-t8OEQ:1uW3f8:g7-tS_vRSmaAVurlm30KusguOqTQ9-l-tfHAqwwGzzw",
+    "expire_date": "2025-07-14T01:50:26.114Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "fmdmgcccegm4xbg9aeytlre3c6dlrql9",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEdOjzq0r3fQAYYpGogKe3K-O_apAvd3nPOfQlP21r81nnxcxJnAeL0uwWKD647SHeqtyZjq-syB7kr8qBdXlvi5-Vw_w4K9fKtwwhMqC04rWzIKkZEYwxOGa3SpCIYcDjxMIJy5LKybFNGTkY7DYMR7w--ITa_:1ud7ct:4lxLegydDTW4PBbdpwjhCnzkrrWc-8GD6fmoPyu_NQk",
+    "expire_date": "2025-08-02T13:29:19.444Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "koeo5e8e7voo3to9zawh2z9x2kgj800j",
+  "fields": {
+    "session_data": ".eJxVjE0OwiAYRO_C2hDUUsCle89Avj-kaiAp7cp4d0vShe4m897MW0VYlxzXJnOcWF2UV4ffDoGeUjrgB5R71VTLMk-ou6J32vStsryuu_t3kKHlbZ3wbIOgC9YDwUBMXjwmYxKyPTKxYZJueHZOtsQjinPpZFMYzOjV5wsu-jl-:1uP0Fq:kLi_AGT_ozTmCl6g_6b2fQUalCawPpJ3iREbsX5aHzs",
+    "expire_date": "2025-06-24T14:47:10.287Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qzq23u8k6uy886oak3lakbaqovancncr",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAqU5i6dN8zkBkGpGpoUtqV8e7apAvd_vfef6lA21rC1tISJlEX1anT78YUH6nuQO5Ub7OOc12XifWu6IM2Pc6SntfD_Tso1Mq3dox9NCSDEQYk6rMXGix6AIypA0GDNvmYPRtyaMFxTmSJY85wJlDvD_jdOMU:1uKutH:tI5C4whbnz_PCz9HJ2YDrh_65z2Z9c1bvPiDsppatLY",
+    "expire_date": "2025-06-13T08:14:59.777Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "t9j4xa3yph3btqe229f0vd28ks9kglb8",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAqU5i6dN8zkBkGpGpoUtqV8e7apAvd_vfef6lA21rC1tISJlEX1anT78YUH6nuQO5Ub7OOc12XifWu6IM2Pc6SntfD_Tso1Mq3dox9NCSDEQYk6rMXGix6AIypA0GDNvmYPRtyaMFxTmSJY85wJlDvD_jdOMU:1uW0Zf:t3m5SFW-lt-oZRg0l5qF_q4nFhM5QmJLWdwu199dHmo",
+    "expire_date": "2025-07-13T22:32:35.092Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "uf4botoitm6fcmp9y5h5j9newsugv2ox",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hAqU5i6dN8zkBkGpGpoUtqV8e7apAvd_vfef6lA21rC1tISJlEX1anT78YUH6nuQO5Ub7OOc12XifWu6IM2Pc6SntfD_Tso1Mq3dox9NCSDEQYk6rMXGix6AIypA0GDNvmYPRtyaMFxTmSJY85wJlDvD_jdOMU:1uHkry:mEJt4xhE93Yc0LL5rOv57eYiQ0dGF8mX_oAii58-mMk",
+    "expire_date": "2025-06-04T14:56:34.988Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "v41q4facbkwi5dsd8pihyztamdxwmaaw",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyEsUFw8evcbyC5QqRqalPZk_Hdp0oOeJpn3Zt4i0LaWsLW8hCmJiwAtTr8lU3zmupP0oHqfZZzrukwsd0UetMnbnPLrerh_B4Va6WuDzg8GUHkAGn1kxxoc6UElZNvrs0cGSH5Eaw1A7jiC7aGMRYzi8wXPUDav:1wCwPZ:chHSxzKcuhIqtB76nWKx_lyqMEHA0mW0YzCFZ8lpw74",
+    "expire_date": "2026-04-29T09:19:53.501Z"
+  }
+},
+{
+  "model": "youtube.kategori",
+  "pk": 2,
+  "fields": {
+    "nama": "Education",
+    "slug_kat": "education"
+  }
+},
+{
+  "model": "youtube.kategori",
+  "pk": 3,
+  "fields": {
+    "nama": "Programming",
+    "slug_kat": "programming"
+  }
+},
+{
+  "model": "youtube.kategori",
+  "pk": 4,
+  "fields": {
+    "nama": "Motivations",
+    "slug_kat": "motivations"
+  }
+},
+{
+  "model": "youtube.kategori",
+  "pk": 5,
+  "fields": {
+    "nama": "Self Development",
+    "slug_kat": "self-development"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 9,
+  "fields": {
+    "judul": "tes sessions redirectt",
+    "isi": "berhasil ga sesison nya rediresttt",
+    "rating": "10",
+    "Kategori": 3,
+    "slug_art": "tes-sessions-redirectt",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-23T23:13:04.045Z",
+    "update": "2025-05-24T22:39:27.232Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 11,
+  "fields": {
+    "judul": "perubaha",
+    "isi": "lagi berubabh",
+    "rating": "9",
+    "Kategori": 5,
+    "slug_art": "perubaha",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-23T23:14:45.053Z",
+    "update": "2025-05-23T23:14:45.053Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 12,
+  "fields": {
+    "judul": "lets goo",
+    "isi": "goooo cutt broroororororoorororoffmfmfmff",
+    "rating": "59",
+    "Kategori": 2,
+    "slug_art": "lets-goo",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-23T23:20:48.293Z",
+    "update": "2025-05-24T22:34:36.695Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 13,
+  "fields": {
+    "judul": "the last",
+    "isi": "lagigi akhir",
+    "rating": "9",
+    "Kategori": 2,
+    "slug_art": "the-last",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-23T23:21:46.233Z",
+    "update": "2025-05-23T23:21:46.233Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 14,
+  "fields": {
+    "judul": "tes minggu",
+    "isi": "ini hari minggu brooo",
+    "rating": "10",
+    "Kategori": 4,
+    "slug_art": "tes-minggu",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-24T22:29:03.705Z",
+    "update": "2025-05-24T22:29:03.705Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 15,
+  "fields": {
+    "judul": "redirect",
+    "isi": "reditrest",
+    "rating": "11",
+    "Kategori": 2,
+    "slug_art": "redirect",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-24T22:38:57.879Z",
+    "update": "2025-05-24T22:38:57.879Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 16,
+  "fields": {
+    "judul": "ubah diri",
+    "isi": "teruslah ubah diri menjadi iron man",
+    "rating": "11",
+    "Kategori": 5,
+    "slug_art": "ubah-diri",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-24T22:42:45.819Z",
+    "update": "2025-05-24T22:42:45.819Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 17,
+  "fields": {
+    "judul": "punya dafa",
+    "isi": "ini punya dafa sudah habis diupdate brooo",
+    "rating": "1222",
+    "Kategori": 3,
+    "slug_art": "punya-dafa",
+    "user": [
+      "dafa"
+    ],
+    "pupdate": "2025-05-25T03:20:08.804Z",
+    "update": "2025-05-25T03:20:31.458Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 18,
+  "fields": {
+    "judul": "dafa nofield",
+    "isi": "ini gada __all__ nya.\r\npake exclude apa itu artinya juga euyyyy",
+    "rating": "8",
+    "Kategori": 5,
+    "slug_art": "dafa-nofield",
+    "user": [
+      "dafa"
+    ],
+    "pupdate": "2025-05-25T05:28:00.646Z",
+    "update": "2025-05-25T05:28:00.646Z"
+  }
+},
+{
+  "model": "youtube.youtube",
+  "pk": 22,
+  "fields": {
+    "judul": "mario teguh",
+    "isi": "bahas mulyono",
+    "rating": "9",
+    "Kategori": 2,
+    "slug_art": "mario-teguh",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-30T05:46:14.555Z",
+    "update": "2025-05-30T05:46:14.555Z"
+  }
+},
+{
+  "model": "movie.kategori",
+  "pk": 1,
+  "fields": {
+    "nama": "Documentary",
+    "slug_kat": "documentary"
+  }
+},
+{
+  "model": "movie.kategori",
+  "pk": 2,
+  "fields": {
+    "nama": "Anime&Manga",
+    "slug_kat": "animemanga"
+  }
+},
+{
+  "model": "movie.kategori",
+  "pk": 3,
+  "fields": {
+    "nama": "Feature Film",
+    "slug_kat": "feature-film"
+  }
+},
+{
+  "model": "movie.kategori",
+  "pk": 4,
+  "fields": {
+    "nama": "Experimental Film",
+    "slug_kat": "experimental-film"
+  }
+},
+{
+  "model": "movie.kategori",
+  "pk": 5,
+  "fields": {
+    "nama": "Teen Film",
+    "slug_kat": "teen-film"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 1,
+  "fields": {
+    "judul": "gatau",
+    "isi": "apapun itu broook",
+    "rating": "12",
+    "Kategori": 1,
+    "slug_mv": "gatau",
+    "user": [
+      "dafa"
+    ],
+    "pupdate": "2025-05-27T01:27:20.011Z",
+    "update": "2025-05-27T01:27:20.011Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 6,
+  "fields": {
+    "judul": "Kaiju No-8",
+    "isi": "kud somewan plis savee my life",
+    "rating": "99",
+    "Kategori": 2,
+    "slug_mv": "kaiju-no-8",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-05-27T05:40:25.995Z",
+    "update": "2025-05-27T05:40:25.995Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 7,
+  "fields": {
+    "judul": "tensura",
+    "isi": "Rimuru tempest",
+    "rating": "99",
+    "Kategori": 2,
+    "slug_mv": "tensura",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-05-27T05:55:41.115Z",
+    "update": "2025-05-27T05:55:41.116Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 8,
+  "fields": {
+    "judul": "wind breaker",
+    "isi": "tumbukk",
+    "rating": "8",
+    "Kategori": 2,
+    "slug_mv": "wind-breaker",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-05-30T06:38:22.704Z",
+    "update": "2025-05-30T06:38:22.704Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 9,
+  "fields": {
+    "judul": "Kowloon Generic Romance",
+    "isi": "wahh ini anime agak pusing dibikinnya wkwkkw, penuh misteri dan di luar logika, yahhh sesuai dengan genre juga yaitu SCI-FI.\r\ntapi aneh loh si Reiko Kujirai kan orang tiruan buatan kudo, tapi pas ending kok ga ngilang, konsepnya orang tiruan dan bisa berpikir sendiri bakal jadi makhluk hidup gitu?\r\nyahhh ending nya agak nyesek sih tapi not bad lah",
+    "rating": "9",
+    "Kategori": 2,
+    "slug_mv": "kowloon-generic-romance",
+    "user": [
+      "alwi"
+    ],
+    "pupdate": "2025-06-29T13:55:17.437Z",
+    "update": "2025-06-29T13:55:17.437Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 10,
+  "fields": {
+    "judul": "End Game",
+    "isi": "meskipun berdurasi 3 jam tapi isinya diluar nalar semua.\r\npembawaan cinema, soundtrack, character semuanya membuat orang fokus\r\ntidak ada moment membosankannnya.\r\nseharusnya ada rating 100 sih wkkwkwwk",
+    "rating": "10",
+    "Kategori": 3,
+    "slug_mv": "end-game",
+    "user": [
+      "alwi"
+    ],
+    "pupdate": "2025-06-29T14:01:19.630Z",
+    "update": "2025-06-29T14:01:19.630Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 11,
+  "fields": {
+    "judul": "sulit dimengerti",
+    "isi": "ntah lah contoh film nya yg mana emang nya hehe",
+    "rating": "3",
+    "Kategori": 4,
+    "slug_mv": "sulit-dimengerti",
+    "user": [
+      "alwi"
+    ],
+    "pupdate": "2025-06-29T14:02:40.745Z",
+    "update": "2025-06-29T14:02:40.745Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 12,
+  "fields": {
+    "judul": "KKN Desa Penari",
+    "isi": "aku pernah baca bukunya dan saat nonton film nya wowww\r\nmirip juga dengan buku\r\nhehe",
+    "rating": "9",
+    "Kategori": 5,
+    "slug_mv": "kkn-desa-penari",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-06-29T14:07:44.063Z",
+    "update": "2025-06-29T14:07:44.063Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 13,
+  "fields": {
+    "judul": "Fire Force S3",
+    "isi": "ga usah di jelasin lah, SERUUU GILAAA\r\ntapi masih part 1 ,sedihhhh\r\n\r\npart 2 nya januari 2026, breaking of internet sih ini",
+    "rating": "10",
+    "Kategori": 2,
+    "slug_mv": "fire-force-s3",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-07-19T13:24:30.377Z",
+    "update": "2025-07-19T13:24:30.377Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 15,
+  "fields": {
+    "judul": "Asahina Wakaba to Marumaru",
+    "isi": "cewek pendiam dibuli dikelasnya, dan dijebak nembak cowok gendut, tapi cowo ny ceria \r\ndan bisa membangun komunikasi, meski ada cerita masa lalu yg kelam like bpk ny gada dan \r\nromance nya lumayan nyengir, meskipun ending ny agak pusing, dan mereka sudah menikah. cuma 20 chapter\r\n\r\nManga",
+    "rating": "9",
+    "Kategori": 2,
+    "slug_mv": "asahina-wakaba-to-marumaru",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-07-19T13:31:39.622Z",
+    "update": "2025-07-19T13:31:39.623Z"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 16,
+  "fields": {
+    "judul": "now that we draw",
+    "isi": "manga mc dan heroine ingin menjadi mangaka dengan -- yg cukup banyak, cerita nya \r\nlumayan seru pengembangan char nya juga, membuat ku semangat untuk belajar IT juga \r\ndan mencapai tujuan gitu, terakhir baca chapter 43\r\n\r\n\r\nManga",
+    "rating": "9",
+    "Kategori": 2,
+    "slug_mv": "now-that-we-draw",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-07-19T13:34:07.417Z",
+    "update": "2025-07-19T13:34:07.417Z"
+  }
+},
+{
+  "model": "aktivitas.kategori",
+  "pk": 1,
+  "fields": {
+    "nama": "Kuliah",
+    "slug_kat": "kuliah"
+  }
+},
+{
+  "model": "aktivitas.kategori",
+  "pk": 2,
+  "fields": {
+    "nama": "Bekerja",
+    "slug_kat": "bekerja"
+  }
+},
+{
+  "model": "aktivitas.kategori",
+  "pk": 3,
+  "fields": {
+    "nama": "Holiday",
+    "slug_kat": "holiday"
+  }
+},
+{
+  "model": "aktivitas.aktivitas",
+  "pk": 1,
+  "fields": {
+    "judul": "Learn Algorithm",
+    "isi": "di hari jumat broooo riluk kah masuk?",
+    "hari": "jumat",
+    "rating": "9",
+    "Kategori": 1,
+    "slug_ak": "learn-algorithm",
+    "user": [
+      "dafa"
+    ],
+    "pupdate": "2025-05-30T03:57:10.698Z",
+    "update": "2025-05-30T03:57:10.698Z"
+  }
+},
+{
+  "model": "aktivitas.aktivitas",
+  "pk": 3,
+  "fields": {
+    "judul": "Matkul Algorithm",
+    "isi": "hari ini ka ojan yg ngajar",
+    "hari": "Jumat",
+    "rating": "9",
+    "Kategori": 1,
+    "slug_ak": "matkul-algorithm",
+    "user": [
+      "admin"
+    ],
+    "pupdate": "2025-05-30T09:06:41.372Z",
+    "update": "2025-05-30T09:06:41.372Z"
+  }
+},
+{
+  "model": "aktivitas.aktivitas",
+  "pk": 4,
+  "fields": {
+    "judul": "Full Maxim",
+    "isi": "dari pagi anak sekolah mayan banyak,maybe\r\ndan sampe siang tuh behhhh panas cukkkk.\r\nmaksudnya aku kasian motorku panas, ini motor tua yg harus kusayang",
+    "hari": "Senin",
+    "rating": "10",
+    "Kategori": 2,
+    "slug_ak": "full-maxim",
+    "user": [
+      "haris"
+    ],
+    "pupdate": "2025-06-10T14:48:38.814Z",
+    "update": "2025-06-10T14:48:38.814Z"
+  }
+},
+{
+  "model": "aktivitas.aktivitas",
+  "pk": 5,
+  "fields": {
+    "judul": "jalan ke kilo",
+    "isi": "yaah berkunjung ke rumah teman dan disambut juga, saat itu di hari jumat dan setelah sholat jumat gasskeen makan-makan hehe, allhamdulillah",
+    "hari": "Jumat",
+    "rating": "10",
+    "Kategori": 3,
+    "slug_ak": "jalan-ke-kilo",
+    "user": [
+      "alwi"
+    ],
+    "pupdate": "2025-06-29T13:51:30.879Z",
+    "update": "2025-06-29T13:51:30.879Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-05-21T14:58:04.265Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "1",
+    "object_repr": "1. python",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-05-21T15:00:02.906Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "2",
+    "object_repr": "2. Education",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-05-21T15:00:37.981Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "3",
+    "object_repr": "3. programming",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-05-21T15:00:49.058Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "4",
+    "object_repr": "4. motivations",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-05-21T15:01:42.135Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "5",
+    "object_repr": "5. self development",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-05-22T04:02:42.015Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "youtube"
+    ],
+    "object_id": "1",
+    "object_repr": "1. testing",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-05-24T07:34:27.132Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "haris",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-05-27T01:26:33.863Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "1",
+    "object_repr": "1. Film",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-05-27T01:26:56.505Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "2",
+    "object_repr": "2. Anime",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-05-27T01:27:20.012Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "movie"
+    ],
+    "object_id": "1",
+    "object_repr": "1. gatau",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-05-27T03:24:10.186Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "movie"
+    ],
+    "object_id": "3",
+    "object_repr": "3. tensura",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-05-27T03:39:15.205Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "1",
+    "object_repr": "1. Documentary",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-05-27T03:45:50.336Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "3",
+    "object_repr": "3. Feature Film",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-05-27T03:46:42.443Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "4",
+    "object_repr": "4. Experimental Film",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-05-27T03:48:23.022Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "5",
+    "object_repr": "5. Teen Film",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-05-27T03:48:52.190Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "5",
+    "object_repr": "5. Self Development",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-05-27T03:48:57.308Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "4",
+    "object_repr": "4. Motivations",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-05-27T03:49:03.110Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "youtube",
+      "kategori"
+    ],
+    "object_id": "3",
+    "object_repr": "3. Programming",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-05-30T03:56:29.561Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "aktivitas",
+      "kategori"
+    ],
+    "object_id": "1",
+    "object_repr": "1. Kuliah",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-05-30T03:57:10.700Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "aktivitas",
+      "aktivitas"
+    ],
+    "object_id": "1",
+    "object_repr": "1. Learn Algorithm",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-06-10T14:45:44.820Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "aktivitas",
+      "kategori"
+    ],
+    "object_id": "2",
+    "object_repr": "2. Bekerja",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-06-10T14:46:56.501Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "aktivitas",
+      "kategori"
+    ],
+    "object_id": "3",
+    "object_repr": "3. Holiday",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-07-19T13:29:48.253Z",
+    "user": [
+      "admin"
+    ],
+    "content_type": [
+      "movie",
+      "kategori"
+    ],
+    "object_id": "2",
+    "object_repr": "2. Anime&Manga",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Nama\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-04-15T09:21:26.744Z",
+    "user": [
+      "rafaharis"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "rafa",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-04-15T09:21:26.744Z",
+    "user": [
+      "rafaharis"
+    ],
+    "content_type": [
+      "auth",
+      "user"
+    ],
+    "object_id": "11",
+    "object_repr": "rafaaa",
+    "action_flag": 3,
+    "change_message": ""
+  }
+}
+]

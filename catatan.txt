@@ -2,3 +2,11 @@ virtual environment
 django
 mysqlclient
 pymysql
+
+admin   rafaharis admin123
+rimuru  tempest123
+
+
+coba koneksi dengan neon, 
+coba tanya apa fungsi branch, apakah bisa banyak database di 1 root branch gitu
+pembuatan schema aga table masuk ke dalam neon bagaimana?
